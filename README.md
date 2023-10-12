@@ -1,6 +1,8 @@
 # QR Code Generator 
 ### is a web-based tool that allows users to generate QR codes for a list of URLs. It provides a simple interface to input URLs, generate QR codes in real-time, and view them in a responsive layout.
 
+![Screenshot](https://raw.githubusercontent.com/RokasBakunas/python-qr/main/image/python-qr.png)
+
 ### Features:
 1. Simple URL Input: Users can input multiple URLs (one per line) to generate QR codes.
 2. Real-time QR Code Generation: QR codes are generated in real-time as users input URLs.
